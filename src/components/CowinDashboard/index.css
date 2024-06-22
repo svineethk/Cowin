@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  height: auto;
+  width: 100vw;
+  background-color: #161625;
+  font-family: Roboto;
+  color: #ffffff;
+  padding: 40px;
+}
+
+.logo-container {
+  font-family: Roboto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.website-logo {
+  margin-right: 20px;
+}
+
+.logo-header {
+  font-family: Roboto;
+  color: #2cc6c6;
+}
+
+.sub-header {
+  font-family: Roboto;
+  color: #cbd5e1;
+}
+
+.failure-header {
+  font-family: Roboto;
+  font-weight: bold;
+}
